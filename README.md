@@ -1,8 +1,8 @@
-# ReadMe generator 
-  [![License used: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# ReadMe Generator
+  
 
   ## Description
-  It is an application that helps you create readme files for your github repositories
+  This is an app that assists developers create readme files for the git hub repositories
 
   ## Table of Contents
   * [Usage](#usage)
@@ -13,20 +13,23 @@
   * [Contact](#contact)
   
   ## Usage
-  to create ReadMe Files
+  to create readme files for git hub repositories
+video walkthrough link
+
+https://www.loom.com/share/08e664da3d6d48b5ad154a9de3dba62e
 
   ## Installation 
-  this app requires the node modules, inquirer module and file systems
+   install npm, package node modules, file systems
 
   ## License
-  [![License used: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
 
   ## Contributing to this project
-  there is no contribution instructions
+  no contribution information
 
   ## Tests
-  test in git bash
+  nil
 
   ## Contact
-  My GitHub: (https://github.com/) <br>
-  Email me at: 
+  My GitHub: (https://github.com/DrMoE77) <br>
+  Email me at: drmo.afifi@gmail.com

@@ -1,8 +1,8 @@
-# ReadMe Generator
-  
+# Password Generator
+  [![License used: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This is an app that assists developers create readme files for the git hub repositories
+  This app will generate a random password between 8-100 characters
 
   ## Table of Contents
   * [Usage](#usage)
@@ -13,23 +13,20 @@
   * [Contact](#contact)
   
   ## Usage
-  to create readme files for git hub repositories
-video walkthrough link
-
-https://www.loom.com/share/08e664da3d6d48b5ad154a9de3dba62e
+  Employees in a company can generte passwords using this app. 
 
   ## Installation 
-   install npm, package node modules, file systems
+  no installation instructions 
 
   ## License
-  
+  [![License used: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing to this project
-  no contribution information
+  no contribution required
 
   ## Tests
-  nil
+  no testing required
 
   ## Contact
-  My GitHub: (https://github.com/DrMoE77) <br>
+  My GitHub: (https://github.com/https://github.com/DrMoE77) <br>
   Email me at: drmo.afifi@gmail.com

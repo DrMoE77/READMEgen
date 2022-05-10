@@ -9,7 +9,7 @@ const quesForUser = [
     {
         type: "input",
         name: "title",
-        message: "Enter the title of your project? (Required)",
+        message: "Enter the title of your Assignment? (Required)",
         //as this is a required question, if nothing is entered by the user, the same question is asked again
         validate: title => {
           if (title) {

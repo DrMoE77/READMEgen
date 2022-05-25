@@ -2,7 +2,8 @@
   [![License used: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This app will generate a random password between 8-100 characters
+  This app will generate a random password between 8-100 characters.
+  Deployed walk through video: https://youtu.be/uizjsgG8BcU
 
   ## Table of Contents
   * [Usage](#usage)
